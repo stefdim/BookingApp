@@ -1,0 +1,9 @@
+{
+"roomName": "Room7",
+"noOfPersons": 10,
+"area": "Area4",
+"stars": 5,
+"noOfReviews": 5,
+"availableDates":"15/06/2024-20/06/2024",
+"roomImage": "/usr/bin/images/room7.png"
+}

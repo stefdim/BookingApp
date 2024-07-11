@@ -1,0 +1,6 @@
+jsonPaths/myJson2.json
+jsonPaths/myJson.json
+jsonPaths/myJson3.json
+jsonPaths/myJson4.json
+jsonPaths/myJson6.json
+jsonPaths/myJson5.json
