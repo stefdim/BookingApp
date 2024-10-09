@@ -25,7 +25,7 @@ public class ManagerActivity extends AppCompatActivity {
     private ArrayAdapter<String> responseAdapterManager;
     private List<String> responseDataManager = new ArrayList<>();
     private TextView successMessage;
-    private static final String SERVER_ADDRESS = "192.168.1.10"; // ή η IP του server
+    private static final String SERVER_ADDRESS = "localhost"; // ή η IP του server
     private static final int SERVER_PORT = 12345;
     private static final String TAG = "ManagerActivity";
 
