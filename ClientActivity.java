@@ -23,7 +23,7 @@ public class ClientActivity extends AppCompatActivity {
     private ListView listViewResponse;
     private ArrayAdapter<String> responseAdapter;
     private List<String> responseData = new ArrayList<>();
-    private static final String SERVER_ADDRESS = "192.168.1.10"; // ή η IP του server
+    private static final String SERVER_ADDRESS = "localhost"; // ή η IP του server
     private static final int SERVER_PORT = 12345;
     private static final String TAG = "ClientActivity";
 
